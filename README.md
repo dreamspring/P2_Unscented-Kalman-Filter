@@ -24,6 +24,8 @@ The following words will be shown on screen: Listening to port 4567.
 Then run the simulator. There are two dataset sets in the simulator.
 
 ## Results
+In this project, CTRV (constant turn rate and velocity magnitude) motion model  is chosen to implemented the unscented Kalman filter. 
+
 Results with dataset 1:
 
 The RMSE is calculated: 
