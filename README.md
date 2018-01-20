@@ -27,7 +27,7 @@ Then run the simulator. There are two dataset sets in the simulator.
 Results with dataset 1:
 
 The RMSE is calculated: 
-X: 0.0691;  Y: 0.0804;  VX: 0.3245;  VY: 0.2383
+X: 0.0769;  Y: 0.0870;  VX: 0.3709;  VY: 0.2945
 
 Snapshot from simulator:
 
@@ -36,10 +36,10 @@ Snapshot from simulator:
 Results with dataset 2:
 
 The RMSE is calculated: 
-X: 0.0726;  Y: 0.0965;  VX: 0.4216;  VY: 0.4932
+X: 0.0922;  Y: 0.0824;  VX: 0.6664;  VY: 0.4735
 
 Snapshot from simulator:
 
 ![Test One Visualization](https://github.com/dreamspring/P2_Unscented-Kalman-Filter/blob/master/P2_dataset2.png "Test One Visualization")
 
-The RMSE results of dataset 1 and dataset 2 are less than the RMSE calculated in project 1 using Extended Karman Filter.
+
